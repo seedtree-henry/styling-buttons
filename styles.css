@@ -7,7 +7,18 @@ a {
   font-size: 20px;
   padding: 12px 15px;
   border-radius: 20px;
-  background-color: blue;
   color: white;
   opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.btn-blue {
+  background-color: blue;
+}
+
+.btn-green {
+  background-color: green;
 }
