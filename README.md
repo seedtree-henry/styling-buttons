@@ -7,4 +7,7 @@
 
   - default display : inline-block
   - button can not be an inline element.
-  
+
+# Design buttons
+
+  - Two blue buttons using btn class
