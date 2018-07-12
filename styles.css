@@ -22,3 +22,22 @@ a {
 .btn-green {
   background-color: green;
 }
+
+.btn-outline {
+  font-size: 20px;
+  padding: 12px 15px;
+  border-radius: 20px;
+  color: blue;
+  border-width: 2px;
+  border-color: blue;
+  transition: 0.2s;
+}
+
+.btn-outline:hover {
+  background-color: blue;
+  color: white;
+}
+
+.btn-outline:active {
+  background-color: orange;
+}
